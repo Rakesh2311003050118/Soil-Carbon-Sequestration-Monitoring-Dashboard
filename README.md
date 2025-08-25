@@ -1,5 +1,4 @@
-# 🌍 Soil Carbon Sequestration Monitoring Dashboard & AI Research
-
+# 🌍 Soil Carbon Sequestration Monitoring Dashboard 
 This repository contains two major works:  
 1. **Soil Carbon Sequestration Monitoring Dashboard** – a DBMS project implemented using Flask, MySQL, Leaflet.js, and Chart.js.  
 2. **Research Paper: Role of AI in Cryptocurrency and Soil Carbon Monitoring** – exploring how AI can augment SOC monitoring and forecasting.
