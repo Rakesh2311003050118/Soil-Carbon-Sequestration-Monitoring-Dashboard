@@ -24,19 +24,13 @@ This dashboard allows **real-time monitoring, visualization, and analysis** of S
 - **Backend:** Flask (Python)  
 - **Database:** MySQL (via HeidiSQL)  
 - **Frontend:** HTML, CSS, Leaflet.js, Chart.js  
-- **Reporting:** ReportLab Toolkit  
-
----
-
-## 📌 Project 2: Role of AI in Cryptocurrency & SOC Monitoring
-### Overview
-This research explores how **Artificial Intelligence (AI)** can be applied in two domains:
-1. **Cryptocurrency** – AI-driven prediction, fraud detection, and algorithmic trading.  
-2. **Soil Carbon Sequestration** – AI-augmented dashboard for SOC prediction using **machine learning models, IoT sensors, and satellite data**.  
-
-### 🔬 Key Points
-- **AI for SOC Prediction**: Machine learning models (Random Forest, Neural Networks) to forecast SOC based on soil, climate, and land-use data.  
-- **IoT Integration**: Real-time soil sensor data (moisture, pH, temperature).  
-- **Satellite Data Synchronization**: Remote sensing (NASA SMAP, Copernicus Sentinel) for global SOC tracking.  
-- **AI in Cryptocurrency**: Identifying market trends, optimizing trades, and enhancing security.  
-
+- **Reporting:** ReportLab Toolkit  \
+  Soil-Carbon-Sequestration-Monitoring-Dashboard/
+│── app/ # Flask backend code
+│── templates/ # HTML templates
+│── static/ # CSS, JS, images
+│── database/ # MySQL schema & seed data
+│── reports/ # Final DBMS project report (PDF)
+│── docs/ # ER diagrams, methodology
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
